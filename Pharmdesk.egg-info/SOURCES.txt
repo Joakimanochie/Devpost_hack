@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Pharmdesk.egg-info/PKG-INFO
+Pharmdesk.egg-info/SOURCES.txt
+Pharmdesk.egg-info/dependency_links.txt
+Pharmdesk.egg-info/top_level.txt
