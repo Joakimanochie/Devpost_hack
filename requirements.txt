@@ -5,4 +5,5 @@ PyPDF2
 langchain
 pinecone-client
 flask
+langchain_google_genai
 -e .
